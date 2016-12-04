@@ -8,4 +8,4 @@ An example of how to use [WP Browser](https://github.com/lucatume/wp-browser) to
 - You have to install WordPress, see `travis.sh`.
 - Currently failing on HHVM. PhantomJS says `XPath error : Invalid expression #user_login`.
 
-See `.travis.yml` for more details.
+See `.travis.yml` for more details .
